@@ -5,13 +5,16 @@
 
 ---
 
-## 👤 Acerca de Mí
+**👤 Acerca de Mí**
 
 Soy una apasionada por el desarrollo de software y el diseño de interfaces de usuario. Actualmente potencio mis habilidades en la creación de soluciones web interactivas, accesibles y modulares. Busco integrarme a equipos de desarrollo donde pueda aportar valor con interfaces semánticas, lógica estructurada y un fuerte enfoque en la experiencia del usuario (UX/UI).
+
 ---
 
-### 🚀 Mi Camino como Desarrolladora Java y Frontend
-Conecto la robustez del backend en Java con interfaces dinámicas en el frontend. Mi meta es dominar la integración Full Stack bajo arquitecturas limpias y patrones eficientes.
+**🚀 Mi Camino como Desarrolladora Java y Frontend**
+
+Mi evolución técnica se consolida al entender cómo conectar la robustez de la lógica del backend en Java con la dinamización y maquetación del usuario en el frontend mediante tecnologías web modernas. Mi meta a corto plazo es dominar la integración completa de aplicaciones Full Stack utilizando arquitecturas limpias y patrones de diseño eficientes, y a largo plazo, diseñar e implementar arquitecturas de software empresariales escalables en la nube.
+
 ---
 
 ## 💼 Ideas e Iniciativas de Proyectos de Alto Impacto
