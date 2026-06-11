@@ -10,8 +10,7 @@
 Soy una apasionada por el desarrollo de software y el diseño de interfaces de usuario. Actualmente potencio mis habilidades en la creación de soluciones web interactivas, accesibles y modulares. Busco integrarme a equipos de desarrollo donde pueda aportar valor con interfaces semánticas, lógica estructurada y un fuerte enfoque en la experiencia del usuario (UX/UI).
 
 ### 🚀 Mi Camino como Desarrolladora Java y Frontend
-Mi evolución técnica se consolida al entender cómo conectar la robustez de la lógica del backend en Java con la dinamización del usuario en el frontend mediante JavaScript y React. Mi meta a corto plazo es dominar la gestión de estados complejos en entornos Next.js, y a largo plazo, diseñar arquitecturas de software completas utilizando microservicios en la nube.
-
+Mi evolución técnica se consolida al entender cómo conectar la robustez de la lógica del backend en Java con la dinamización y maquetación del usuario en el frontend mediante tecnologías web modernas. Mi meta a corto plazo es dominar la integración completa de aplicaciones Full Stack utilizando arquitecturas limpias y patrones de diseño eficientes, y a largo plazo, diseñar e implementar arquitecturas de software empresariales escalables en la nube.
 ---
 
 ## 💼 Ideas e Iniciativas de Proyectos de Alto Impacto
@@ -20,9 +19,9 @@ Mi evolución técnica se consolida al entender cómo conectar la robustez de la
 ### 🛒 1. E-commerce "Sierra Dorada"
 * **Propósito:** Tienda virtual interactiva para la comercialización de cerveza artesanal, enfocada en la optimización de ventas y fidelización digital.
 * **Contexto:** Proyecto integrador de software orientado a resolver la baja presencia digital de comercios tradicionales.
-* **Desafíos y Soluciones:** El reto principal radica en la gestión de un carrito de compras dinámico y un sistema de interacción en 3D/giros para las tarjetas de producto. Se solucionará estructurando estados globales eficientes en React y aplicando transformaciones tridimensionales fluidas en CSS.
-* **Tecnologías:** HTML5 Semántico, CSS3 (Rem/Em), JavaScript Moderno, React, Figma.
-
+* **Desafíos y Soluciones:** El reto principal radica en la gestión persistente del carrito de compras y el procesamiento seguro de pedidos. Se solucionará estructurando una arquitectura MVC (Modelo-Vista-Controlador) robusta en Java, manejando sesiones de usuario del lado del servidor y aplicando un diseño responsivo mediante HTML5 y CSS3.
+* **Tecnologías:** Java, Servlets / Thymeleaf, HTML5 Semántico, CSS3 (Flexbox/Grid, Medidas Rem/Em), MySQL.
+  
 ### 📱 2. Integración de Deep Links - Proyecto "Grande Table"
 * **Propósito:** Optimizar la navegación móvil y la experiencia del usuario mediante la actualización de formatos de documentación e implementación de redireccionamientos específicos.
 * **Contexto:** Actualización técnica del formato desactualizado de un SDK de iOS para la correcta integración de funcionalidades de deep links segmentadas por ciudades.
@@ -35,11 +34,11 @@ Mi evolución técnica se consolida al entender cómo conectar la robustez de la
 * **Desafíos y Soluciones:** El reto principal consistió en diseñar una interfaz compleja con múltiples flujos de datos y asegurar la consistencia en el consumo de servicios externos. Se resolvió mediante el diseño de componentes modulares y reutilizables, la correcta integración y manejo asíncrono de APIs REST, y una estrecha colaboración en equipo mediante metodologías ágiles (Scrum), participando activamente en las sesiones Daily para mitigar bloqueos técnicos.
 * **Tecnologías:** HTML5 Semántico, CSS3, JavaScript Moderno (ES6+), React, Integración de APIs REST, UI/UX Design, Metodología Scrum (Dailys).
   
-  ### ☕ 4. Aplicación de Procesamiento de Datos de Alto Rendimiento - "En Minutos"
-* **Propósito:** Diseñar y construir una aplicación backend optimizada para procesar grandes volúmenes de datos numéricos y de texto de manera eficiente y ágil.
-* **Contexto:** Iniciativa de desarrollo personal orientada a maximizar el rendimiento de la lógica de negocio en el backend utilizando las capacidades nativas de Java.
-* **Desafíos y Soluciones:** El desafío principal será gestionar flujos de información masivos sin generar cuellos de botella ni saturar la memoria del servidor. Se resolverá implementando procesamiento asíncrono, estructuras de datos optimizadas y aprovechando el manejo eficiente de hilos (*multithreading*) que ofrece la máquina virtual de Java (JVM).
-* **Tecnologías:** Java Standard Edition (Java SE), Programación Concurrente, Estructuras de Datos, Colecciones.
+### ☕ 4. Plataforma Full Stack para Delivery - "En Minutos"
+* **Propósito:** Desarrollar una aplicación integral (Frontend y Backend) diseñada para optimizar los flujos de entrega en plataformas de domicilios, mejorando la asignación de pedidos para los repartidores y el rastreo en tiempo real para los clientes.
+* **Contexto:** Iniciativa de desarrollo Full Stack orientada a crear una solución robusta de última milla, conectando una interfaz de usuario responsiva con una lógica de servidor de alto rendimiento.
+* **Desafíos y Soluciones:** El desafío principal consiste en sincronizar las actualizaciones de estado entre repartidores y clientes en tiempo real. Se resolverá estructurando el backend en Java con arquitectura MVC, utilizando procesamiento asíncrono para la gestión de órdenes, y diseñando un frontend dinámico en HTML5 y CSS3 que consuma estos servicios de forma eficiente.
+* **Tecnologías:** Java, Servlets / Thymeleaf, HTML5 Semántico, CSS3 (Flexbox/Grid), Colecciones y Estructuras de Datos.
 
 
 ---
